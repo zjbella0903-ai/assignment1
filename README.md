@@ -20,4 +20,4 @@ f55bfb9 Initial repository setup: add README, assistant_draft, final_version
 
 
 Video walkthrough (unlisted):
-[Add link here in Step 6]
+https://youtu.be/CWcfgFVCi3o
